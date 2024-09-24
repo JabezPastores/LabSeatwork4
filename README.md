@@ -18,4 +18,4 @@ HomeInterface: The facade class that coordinates interactions between the client
 HomeApp: The client class that uses the HomeInterface to access and utilize home services seamlessly.
 
 ERD:
-!(ERD)[https://github.com/JabezPastores/LabSeatwork4/blob/main/FacadePatternUML.png]
+!(ERD[https://github.com/JabezPastores/LabSeatwork4/blob/main/FacadePatternUML.png])
